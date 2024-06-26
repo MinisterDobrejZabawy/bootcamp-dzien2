@@ -30,4 +30,4 @@ async function handleSubmit(e) {
     <section id="greeting">{{ greeting }}</section>
     <Blog />
   </main>
-</template>f
+</template>
