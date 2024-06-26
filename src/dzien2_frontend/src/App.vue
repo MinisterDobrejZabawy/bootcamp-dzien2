@@ -3,7 +3,7 @@ import Blog from './components/Blog.vue';
 </script>
 
 <template>
-  <main class="container mx-auto">
+  <main>
     <img src="/logo2.svg" alt="DFINITY logo" />
     <br />
     <br />
